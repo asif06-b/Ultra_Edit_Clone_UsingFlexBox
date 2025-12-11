@@ -3,11 +3,6 @@ UltraEdit Clone — Landing / Download Page (HTML & CSS)
 A clean, responsive UltraEdit download page clone built with pure HTML & CSS.
 Great for practise, portfolio, or as a starter template for download pages and marketing hero sections.
 
-🚀 Demo / Preview
-
-Add your screenshots to /images and replace the placeholders below.
-
-<p align="center"> <img src="Images/preview-hero.png" alt="Hero preview" width="700"/> </p>
 ✅ Features
 
 Pixel-style landing page inspired by UltraEdit’s download page
